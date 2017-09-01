@@ -10,5 +10,6 @@ DevLib is a highly reusable collection of components and core functionalities ad
 It is time to boost your productivity.
 
 # Donation 
-please goto original link donato to the owner
+please goto original link donato to the owner. 
+
 DevLib is a personal open source project. Started in 2007, I have put hundreds of hours adding, refining and tuning DevLib with the goal to make it the best reusable library for .NET. I need your help to achieve this.
